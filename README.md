@@ -5,10 +5,8 @@ https://github.com/PinkWink/DataScience?tab=readme-ov-file
 # 목적
 Pandas, Matplotlib, numpy, folium, KoNLPy, Beautiful Soup, Selenium 등 데이터 분석과 시각화에 필요한 많은 모듈을 다룬다.
 정확한 목표를 가진 실제 프로젝트를 다수 수행하면서 프로젝트 단위로 데이터 분석을 학습할 수 있다.
-파이썬이 처음인 독자라도 프로젝트를 수행할 수 있도록 설명한다.
-파이썬을 공부했지만 실제로 어디에 어떻게 적용하는지 궁금한 독자
-데이터 분석을 통해 얻을 수 있는 결과를 학습과 동시에 경험하고 싶은 독자
-프로그래밍 언어가 처음이지만 단기간에 성과를 얻고 싶은 독자
+데이터분석 전체 프로세스 익히기
+
 
 # 목차
 서울시 구별 CCTV 현황 분석
